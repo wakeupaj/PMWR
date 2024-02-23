@@ -1,1 +1,1 @@
-git init, test
+luh calm pokemon web randomizer
